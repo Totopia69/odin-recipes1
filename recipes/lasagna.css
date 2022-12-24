@@ -1,0 +1,28 @@
+body {
+    background-color: #FEFBEA;
+    font-family: monospace;
+    color: #51361A;
+    font-weight: bold;
+}
+
+h1,
+h3 {
+    text-align: center;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+img {
+    width: 600px;
+    height: auto;
+}
+
+h3 {
+    font-size: 30px;
+}
+
+li {
+    font-size: 20px;
+}
